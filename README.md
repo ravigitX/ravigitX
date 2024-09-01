@@ -9,8 +9,8 @@ Computer Science and Engineering Student @ SASTRA university
 - 💬 Ask me about Tech
 - My LinkedIn profile 👇
 <br />      [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ravi-kumar-profile/)
-- 😄 Pronouns: Techie
-- ⚡ Fun fact: I am Batman.
+- 😄 Pronouns : Techie
+- ⚡ Fun fact : I am Batman.
 
 
 ### I code in
