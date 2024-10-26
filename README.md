@@ -2,15 +2,15 @@
 
 Computer Science and Engineering Student @ SASTRA UNIVERSITY
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://hareesh.web.app/)                                                 
+- 🔭 Here's my [portfolio](https://ravigitx.github.io/Portfolio/)                                                 
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on Machine Learning Projects
 - 🤔 I’m looking for help with placements in well Recognized Companies
 - 💬 Ask me about Tech
 - My LinkedIn profile 👇
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ravi-kumar-profile/)
-- 😄 Pronouns : Techie
-- ⚡ Fun fact : I am Batman.
+- 😄 Fav Book : The Alchemist
+- ⚡ Fun Fact : I am Batman.
 
 
 ### I code in :
